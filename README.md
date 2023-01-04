@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# <sub>[`←`](https://github.com/KrLite/Example-Mod)`Fabric` `1.19`</sub><br />Example Mod
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This is an example mod for Fabric, generated from the [Fabric Example Mod](https://github.com/FabricMC/fabric-example-mod) template.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This repository is available under the [GNU Public License.](LICENSE)
