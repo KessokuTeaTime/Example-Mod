@@ -1,4 +1,4 @@
-# <sub>[`←`](https://github.com/KrLite/Example-Mod) `Fabric` `1.19`</sub><br />Example Mod
+# <sub>[`←`](https://github.com/KrLite/Example-Mod) `Fabric` `1.19.3`</sub><br />Example Mod
 
 This is an example mod for Fabric, generated from the [Fabric Example Mod](https://github.com/FabricMC/fabric-example-mod) template.
 
