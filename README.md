@@ -1,4 +1,4 @@
-### <p align=right>`Fabric` `1.19.3`</p>
+### <p align=right>[`→` Modrinth](https://modrinth.com/mod/fabric-api)</p>
 
 # Example Mod
 
