@@ -6,4 +6,4 @@ This is an example mod.
 
 ## License
 
-This repository is available under the **[GNU Public License.](LICENSE)**
+This repository is licensed under the **[GNU General Public License v3.](LICENSE)**
