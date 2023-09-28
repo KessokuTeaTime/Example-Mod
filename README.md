@@ -1,3 +1,9 @@
-### <p align=right>[Main Branch `←`](https://github.com/KrLite/Example-Mod)&emsp;[`→` Modrinth](https://modrinth.com/mod/fabric-api)</p>
+### <p align=right>[`→` Modrinth](https://modrinth.com/mod/fabric-api)</p>
 
-# Branch for Example Mod on Minecraft `1.18.2`
+# Example Mod
+
+This is an example mod.
+
+## License
+
+This repository is licensed under the **[GNU General Public License v3.](LICENSE)**
