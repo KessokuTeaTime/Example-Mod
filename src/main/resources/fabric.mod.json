@@ -10,7 +10,8 @@
   ],
   "contact": {
     "homepage": "https://github.com/KrLite",
-    "sources": "https://github.com/KrLite/Example-Mod"
+    "sources": "https://github.com/KrLite/Example-Mod",
+    "issues": "https://github.com/KrLite/Example-Mod/issues"
   },
 
   "license": "GPL-3.0",
