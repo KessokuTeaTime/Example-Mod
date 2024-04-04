@@ -3,7 +3,7 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "${display.name}",
   "description": "",
   "authors": [
     "KrLite"
