@@ -1,4 +1,4 @@
-package net.krlite.modid;
+package band.kessokuteatime.modid;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

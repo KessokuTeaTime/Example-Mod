@@ -6,12 +6,13 @@
   "name": "${display.name}",
   "description": "",
   "authors": [
+    "Kessoku Tea Time",
     "KrLite"
   ],
   "contact": {
-    "homepage": "https://github.com/KrLite",
-    "sources": "https://github.com/KrLite/Example-Mod",
-    "issues": "https://github.com/KrLite/Example-Mod/issues"
+    "homepage": "https://github.com/KessokuTeaTime",
+    "sources": "https://github.com/KessokuTeaTime/Example-Mod",
+    "issues": "https://github.com/KessokuTeaTime/Example-Mod/issues"
   },
 
   "license": "GPL-3.0",
@@ -20,7 +21,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.krlite.modid.ExampleMod"
+      "band.kessokuteatime.modid.ExampleMod"
     ]
   },
   "mixins": [
