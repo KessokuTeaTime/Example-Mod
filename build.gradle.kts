@@ -83,6 +83,14 @@ publisher {
 	gameVersions.set(listOf("1.20.4"))
 	loaders.set(listOf("fabric", "quilt"))
 
+	modrinthDepends.required("fabric-api")
+	modrinthDepends.optional()
+	modrinthDepends.embedded()
+
+	curseDepends.required("fabric-api")
+	curseDepends.optional()
+	curseDepends.embedded()
+
 	displayName.set("${display.name} ${libs.versions.mod.get()} for ${display.loader} ${display.version}")
 
 	artifact.set(tasks.jar)
