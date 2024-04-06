@@ -93,7 +93,7 @@ publisher {
 
 	displayName.set("${display.name} ${libs.versions.mod.get()} for ${display.loader} ${display.version}")
 
-	artifact.set(tasks.jar)
+	artifact.set(tasks.remapJar)
 	addAdditionalFile(tasks.remapSourcesJar)
 
 	changelog.set(file("CHANGELOG.md"))
