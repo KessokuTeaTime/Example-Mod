@@ -1,4 +1,4 @@
-### <p align=right>[`→` Modrinth](https://modrinth.com/mod/fabric-api)</p>
+### <p align=right>[`→` CurseForge](https://www.curseforge.com/minecraft/mc-mods/modid)&ensp;[`→` Modrinth](https://modrinth.com/mod/fabric-api)</p>
 
 # Example Mod
 
