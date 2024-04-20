@@ -1,4 +1,4 @@
-### <p align=right>[`→` CurseForge](https://www.curseforge.com/minecraft/mc-mods/modid)&ensp;[`→` Modrinth](https://modrinth.com/mod/fabric-api)</p>
+### <p align=right>[`→` CurseForge](https://www.curseforge.com/minecraft/mc-mods/modid)&ensp;[`→` Modrinth](https://modrinth.com/mod/modid)</p>
 
 ### Example Mod for Fabric `1.19.4`
 
