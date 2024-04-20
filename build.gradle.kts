@@ -82,6 +82,7 @@ publisher {
 	projectVersion.set(project.version.toString())
 	gameVersions.set(listOf("1.20"))
 	loaders.set(listOf("fabric", "quilt"))
+	curseEnvironment.set("both")
 
 	modrinthDepends.required("fabric-api")
 	modrinthDepends.optional()
