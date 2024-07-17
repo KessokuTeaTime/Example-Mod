@@ -3,7 +3,7 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "${display.name}",
+  "name": "${display.name.get()}",
   "description": "",
   "authors": [
     "Kessoku Tea Time",
