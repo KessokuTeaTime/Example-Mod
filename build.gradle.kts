@@ -10,7 +10,7 @@ plugins {
 val display = libs.versions.display
 
 group = libs.versions.maven.group.get()
-version = "${libs.versions.mod.get()}-${libs.versions.loader.get()}${libs.versions.minecraft.get()}"
+version = "${libs.versions.mod.get()}-${libs.versions.loader.get()}.${libs.versions.minecraft.get()}"
 
 base {
 	archivesName.set(libs.versions.archives.name)
